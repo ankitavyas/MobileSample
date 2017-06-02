@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Int64 x:Key="/Default/Environment/SearchAndNavigation/DefaultOccurrencesGroupingIndex/@EntryValue">2</s:Int64>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">79366B0DF3B40B49831670341566BD75</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=3E001DB69D89334B99C0F434B97349FB/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E001DB69D89334B99C0F434B97349FB/Name/@EntryValue">MobileApp</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E001DB69D89334B99C0F434B97349FB/ProjectGuid/@EntryValue">B22B9122F93F554DB4DBD210B6035D4C</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3E001DB69D89334B99C0F434B97349FB/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=79366B0DF3B40B49831670341566BD75/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=79366B0DF3B40B49831670341566BD75/Name/@EntryValue">MobileApp</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=79366B0DF3B40B49831670341566BD75/ProjectGuid/@EntryValue">8072A0499931BF4BA31C9BCACAE8178E</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=79366B0DF3B40B49831670341566BD75/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>

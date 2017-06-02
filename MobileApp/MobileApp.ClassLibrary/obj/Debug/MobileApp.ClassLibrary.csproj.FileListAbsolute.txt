@@ -1,0 +1,7 @@
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\bin\Debug\MobileApp.ClassLibrary.dll
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\bin\Debug\MobileApp.ClassLibrary.pdb
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\obj\Debug\MobileApp.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\obj\Debug\MobileApp.ClassLibrary.dll
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\obj\Debug\MobileApp.ClassLibrary.pdb
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\obj\Debug\MobileApp.ClassLibrary.dll.mdb
+C:\Temp\PluralSight\Mobile\MobileApp\MobileApp.ClassLibrary\bin\Debug\MobileApp.ClassLibrary.dll.mdb
